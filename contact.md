@@ -22,7 +22,9 @@ permalink: /contact/
             </div>
             <div class="caption text-justify" style="margin-top: 5%">
               <p>
-                <b>Head Office: </b>Office No. 108 & 109, Mohite Paradise, Next to New Poona Bakery, Anand Nagar, Sinhagad Road, Pune 411051.
+                <a href="https://www.google.co.in/maps/place/Mohite+Paradise,+Anand+Nagar,+Pune,+Maharashtra+411051/@18.4767854,73.8228405,19.14z/data=!4m5!3m4!1s0x3bc2955eea7831ab:0x1f21773e02c7076f!8m2!3d18.4767062!4d73.8227457" target="_blank">
+                  <b>Head Office: </b>Office No. 108 & 109, Mohite Paradise, Next to New Poona Bakery, Anand Nagar, Sinhagad Road, Pune 411051.
+                </a>
               </p>
 
               <p>
