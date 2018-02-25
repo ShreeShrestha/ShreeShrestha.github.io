@@ -20,7 +20,7 @@ permalink: /courses/
               </div>
               <div class="col-md-10 col-lg-10 col-sm-12 col-xs-12">
                 <label style="color: #ff4433"><b>11th &amp; 12th COACHING</b></label><br>
-                <p>Quality teaching for the 11th and 12th subjects as per the Maharashtra State Board curriculum</p>
+                <p>Quality teaching for the 11th and 12th subjects as per the HSC/CBSE/ICSE curriculum. Separate batches for each.</p>
               </div>
             </div>
 
