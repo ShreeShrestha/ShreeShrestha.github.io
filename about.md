@@ -65,30 +65,10 @@ permalink: /about/
           </div>
         </div>
         <div class="row text-center slideanim">
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                <h3 class="panel">Effective Lectures</h3>
-            </div>
-
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                <h3 class="panel">SST Master Paper Set</h3>
-            </div>
-
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                <h3 class="panel">Counselling</h3>
-            </div>
-        </div>
-
-        <div class="row text-center slideanim">
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                <h3 class="panel">Difficulty Solving Sessions</h3>
-            </div>
-
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                <h3 class="panel">Revision Sessions</h3>
-            </div>
-
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                <h3 class="panel">Regular Tests</h3>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
+              <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 col-md-offset-2">
+                <img src="{{ "public/images/wheel_of_success.png" | relative_url }}" alt="">
+              </div>
             </div>
         </div>
     </div>
