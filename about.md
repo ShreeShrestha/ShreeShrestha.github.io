@@ -67,7 +67,7 @@ permalink: /about/
         <div class="row text-center slideanim">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
               <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 col-md-offset-2">
-                <img src="{{ "public/images/wheel_of_success.png" | relative_url }}" alt="">
+                <img src="{{ "public/images/wheel_of_success.png" | relative_url }}" class="img-responsive" alt="">
               </div>
             </div>
         </div>

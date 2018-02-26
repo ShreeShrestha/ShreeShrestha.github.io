@@ -13,7 +13,7 @@ title: Home
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="{{ "public/images/header.jpg" | relative_url }}" alt="">
+      <img src="{{ "public/images/header.jpg" | relative_url }}" class="img-responsive" alt="">
       <div class="carousel-caption">
         <h2>With Proud Student (IIT Ranker)</h2>
         <h2>Krishna Jaju</h2>
@@ -21,7 +21,7 @@ title: Home
     </div>
 
     <div class="item">
-      <img src="{{ "public/images/header.jpg" | relative_url }}" alt="">
+      <img src="{{ "public/images/header.jpg" | relative_url }}" class="img-responsive" alt="">
     </div>
   </div>
 

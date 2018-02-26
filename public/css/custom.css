@@ -200,7 +200,7 @@ p, label{
 		/*margin-top: 3%;*/
 		padding-top: 20%;
 		padding-bottom: 10%;
-		color: white;
+		color: #ff4433;
 	}
 
 	#header-text1{
@@ -218,6 +218,14 @@ p, label{
 
 	.navbar-collapse{
 		background-color: white;
+	}
+
+	.carousel-caption h2{
+		font-size: 10px;
+	}
+
+	.carousel{
+		height: 50vh;
 	}
 }
 
