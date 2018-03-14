@@ -13,7 +13,7 @@ permalink: /gallery/
       </div>
       <div class="col-md-4">
         <div class="thumbnail" style="padding: 0">
-            <img src="{{ "public/images/gallery2.jpg" | relative_url }}" style="width:100%">
+            <img src="{{ "public/images/gallery2.png" | relative_url }}" style="width:100%">
             <!-- <div class="caption">
               <p>Lorem ipsum...</p>
             </div> -->
@@ -32,7 +32,7 @@ permalink: /gallery/
     <div class="row" style="margin-top: 3%">
       <div class="col-md-4">
         <div class="thumbnail" style="padding: 0">
-            <img src="{{ "public/images/gallery4.png" | relative_url }}" style="width:100%">
+            <img src="{{ "public/images/gallery4.jpg" | relative_url }}" style="width:100%">
         </div>
       </div>
       <div class="col-md-4">
